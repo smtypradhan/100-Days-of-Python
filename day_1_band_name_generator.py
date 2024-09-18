@@ -6,4 +6,4 @@
 print("Welcome Player1")
 city = input("What city did you grow up in?: ")
 pet = input("What is the name of your pet?: ")
-print(city + " " + pet)
+print("The name of your band is " + city + " " + pet)
