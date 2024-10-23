@@ -1,10 +1,5 @@
 import random
 
-'''
-game = ["rock", "paper", "scissor"]
-
-computer = random.choice(game)
-'''
 rock = '''
     _______
 ---'   ____)
@@ -33,6 +28,10 @@ scissor = '''
 ---.__(___)
 
 '''
+
+
+#game = ["rock", "paper", "scissor"]
+#computer = random.choice(game)
 
 game_images = [rock, paper, scissor]
 
